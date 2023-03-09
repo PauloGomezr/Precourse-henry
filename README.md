@@ -1,2 +1,1 @@
-# Precurcse-henry
-Este eun repositoriode prueba del modulo 2 prepcourse  de henry
+Este proyecto es una prueba de como clonarlo y como guardarlo desde mi repositorio de githud a mi escritorio
